@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" x="0px" y="0px" viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <style type="text/css">
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+</style>
+  <g id="Layer_1" transform="matrix(0.982775, 0, 0, 0.982775, -245.052368, 3.890265)" style="">
+    <g>
+      <g>
+        <g>
+          <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="325.1461" y1="161.8042" x2="325.1461" y2="-28.3663">
+            <stop offset="0" style="stop-color:#6957A5"></stop>
+            <stop offset="0.3671" style="stop-color:#574896"></stop>
+            <stop offset="1" style="stop-color:#322C81"></stop>
+          </linearGradient>
+          <circle class="st3" cx="325.15" cy="73.18" r="73.18"></circle>
+          <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="325.1461" y1="5.3462" x2="325.1461" y2="124.3035">
+            <stop offset="0" style="stop-color:#6957A5"></stop>
+            <stop offset="0.3671" style="stop-color:#574896"></stop>
+            <stop offset="1" style="stop-color:#322C81"></stop>
+          </linearGradient>
+          <circle class="st4" cx="325.15" cy="73.18" r="65.83"></circle>
+        </g>
+        <g>
+          <g>
+            <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="324.5742" y1="38.9995" x2="324.5742" y2="112.1561">
+              <stop offset="0" style="stop-color:#D6E0E0"></stop>
+              <stop offset="1" style="stop-color:#FFFFFF"></stop>
+            </linearGradient>
+            <path class="st5" d="M322.66,103.51c-4.18,0-8.42-0.47-12.72-1.39c-4.3-0.93-8.07-2.29-11.33-4.09l6.97-15.16
+						c2.61,1.51,5.34,2.63,8.19,3.35c2.84,0.73,5.54,1.09,8.1,1.09c2.32,0,4.24-0.41,5.75-1.22c1.51-0.81,2.27-2,2.27-3.57
+						c0-0.87-0.26-1.64-0.78-2.31c-0.52-0.67-1.44-1.18-2.74-1.52c-1.31-0.35-3.21-0.52-5.71-0.52h-17.68l3.05-37.02h40.51v15.51
+						h-33.28l10.37-8.8l-1.83,23.61l-10.37-8.8h14.2c6.04,0,10.87,0.87,14.5,2.61c3.63,1.74,6.27,4.08,7.93,7.01
+						c1.66,2.93,2.48,6.2,2.48,9.8c0,3.6-0.97,7.04-2.92,10.32c-1.95,3.28-4.97,5.95-9.06,8.01
+						C334.46,102.48,329.16,103.51,322.66,103.51z"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
